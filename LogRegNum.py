@@ -1,4 +1,4 @@
-# # Binary Classifier using Linear Regression
+# # Binary Classifier using Logistic Regression
 
 # load python modules
 
@@ -9,7 +9,7 @@ import matplotlib.mlab as mlab
 from sklearn import linear_model
 
 print ""
-print "Welcome to our Binary Linear Regression Classifier Demo!"
+print "Welcome to our Binary Logistic Regression Classifier Demo!"
 time.sleep(2)
 
 print ""
